@@ -16,6 +16,13 @@
     font-size: 55px;
     fonth4-family: 'Trebuchet MS', 'Lucida Sans Unicode';
   }
+
+  h3 {
+    color:black
+    font-size: 35px;
+    fonth4-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+  }
+
   p1 {
     color:darkgray
     font-size: 35px;
@@ -29,6 +36,24 @@
   }
 
   p4 {
+    color:darkgray
+    font-size: 35px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p5 {
+    color:darkgray
+    font-size: 35px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p6 {
+    color:darkgray
+    font-size: 35px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  p7 {
     color:darkgray
     font-size: 35px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
