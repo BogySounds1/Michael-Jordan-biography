@@ -6,33 +6,17 @@
 
   }
 
-
   h2 {
 
     color:black
     font-size: 35px;
-    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-  }
-
-
-  h3 {
-
-    color:black
-    font-size: 45px;
-    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-  }
-
+    fonth2-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
   h4 {
 
     color:black
     font-size: 55px;
-    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-  }
-
+    fonth4-family: 'Trebuchet MS', 'Lucida Sans Unicode';
 
   p1 {
 
@@ -42,8 +26,15 @@
 
   }
 
-
   p2 {
+
+    color:darkgray
+    font-size: 35px;
+    fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+
+  p4 {
 
     color:darkgray
     font-size: 35px;
