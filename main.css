@@ -1,9 +1,7 @@
  h1 {
-
     color:black;
     font-size: 55px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
   }
 
   h2 {
@@ -11,33 +9,27 @@
     color:black
     font-size: 35px;
     fonth2-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
 
   h4 {
-
     color:black
     font-size: 55px;
     fonth4-family: 'Trebuchet MS', 'Lucida Sans Unicode';
-
+  }
   p1 {
-
     color:darkgray
     font-size: 35px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
   }
 
   p2 {
-
     color:darkgray
     font-size: 35px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
   }
 
   p4 {
-
     color:darkgray
     font-size: 35px;
     fonth1-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
   }
